@@ -1,0 +1,8 @@
+.headdd {
+    font-size: 300%;
+    text-align: center;
+    font-family: arial;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    box-shadow: 1px 3px 10px 10px rgba(0, 0, 0, 0.5);
+}
